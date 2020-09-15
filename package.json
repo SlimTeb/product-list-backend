@@ -1,0 +1,14 @@
+{
+  "name": "product-list-backend",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "repository": "https://github.com/SlimTeb/product-list-backend.git",
+  "author": "slim tebourski",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "nodemon": "^2.0.4"
+  }
+}
